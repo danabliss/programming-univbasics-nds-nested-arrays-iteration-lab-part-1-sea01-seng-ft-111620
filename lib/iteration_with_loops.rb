@@ -1,3 +1,5 @@
 def find_even_values(src)
-  src.flatten
+  src.flatten.each {|num|
+  num.even?
+  {
 end  
