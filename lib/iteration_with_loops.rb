@@ -3,5 +3,5 @@ def find_even_values(src)
   if num.even?
     num
   end  
-  {
+  }
 end  
